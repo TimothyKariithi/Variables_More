@@ -1,0 +1,8 @@
+● Function: a list of statements executed by invoking the function's name, withsuch invoking known as a function call.
+● Function Declaration - introduces an identifier that designates a function and, optionally, specifies the types of the function parameters (the prototype).
+● Function Call - an expression that passes control and arguments (if any) to a function.
+● Arguments - Any function input values,
+● Type Casting - transfer of data from one data type to another.
+● Implicit Conversion - something that's done for you by other code behind the scenes.
+● Explicit Converstion - the manual approach to accomplishing the change you wish to have by writing out the instructions to be done explicitly
+● Module - a section of code that is added in as a whole or is designed for easy reusability.

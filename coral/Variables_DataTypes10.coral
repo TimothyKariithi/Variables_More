@@ -1,0 +1,18 @@
+float SOUND_SPEED
+integer SEC_PER_HOUR
+
+float secBetween
+float timeInHours
+float distinMiles
+
+//Get seconds between lighting and thunder
+secBetween = Get next input
+
+timeInHours = secBetween/SEC_PER_HOUR 
+
+distinMiles = SOUND_SPEED*timeInHours
+
+Put "Miles from lighting strike: " to output
+Put distinMiles to output
+
+

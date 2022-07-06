@@ -1,0 +1,11 @@
+float areaSquare
+float sideSquare
+
+areaSquare = 49
+
+sideSquare = SquareRoot(areaSquare)
+
+Put "SquareRoot of " to output
+Put areaSquare to output
+Put " is " to output
+Put sideSquare to output
